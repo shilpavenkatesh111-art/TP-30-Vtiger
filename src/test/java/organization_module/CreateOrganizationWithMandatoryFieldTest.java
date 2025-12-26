@@ -46,6 +46,8 @@ public class CreateOrganizationWithMandatoryFieldTest extends BaseClass {
 	@Test
 	public void regional() {
 		System.out.println("---regional test----");
+		System.out.println("---impacted area----");
 		
 	}
+
 }
